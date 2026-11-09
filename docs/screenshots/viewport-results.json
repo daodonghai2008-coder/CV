@@ -1,0 +1,422 @@
+[
+  {
+    "viewport": {
+      "width": 360,
+      "height": 800
+    },
+    "documentWidth": 360,
+    "bodyWidth": 360,
+    "horizontalOverflow": false,
+    "projectColumns": 1,
+    "projectCards": 4,
+    "navLinks": [
+      {
+        "label": "Giới thiệu",
+        "href": "#about",
+        "targetExists": true
+      },
+      {
+        "label": "Kỹ năng",
+        "href": "#skills",
+        "targetExists": true
+      },
+      {
+        "label": "Dự án",
+        "href": "#projects",
+        "targetExists": true
+      },
+      {
+        "label": "Góp ý",
+        "href": "#message",
+        "targetExists": true
+      },
+      {
+        "label": "Liên hệ",
+        "href": "#contact",
+        "targetExists": true
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/img/IMG_20260417_215934.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-hell.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-reaction.jpg",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-warrior.png",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-alien.jpg",
+        "loaded": true,
+        "hasAlt": true
+      }
+    ],
+    "formCount": 1,
+    "formLabels": 0,
+    "phase": "before",
+    "pageErrors": [],
+    "screenshot": "docs/screenshots/before-mobile-360.png"
+  },
+  {
+    "viewport": {
+      "width": 360,
+      "height": 800
+    },
+    "documentWidth": 360,
+    "bodyWidth": 360,
+    "horizontalOverflow": false,
+    "projectColumns": 1,
+    "projectCards": 4,
+    "navLinks": [
+      {
+        "label": "Giới thiệu",
+        "href": "#about",
+        "targetExists": true
+      },
+      {
+        "label": "Kỹ năng",
+        "href": "#skills",
+        "targetExists": true
+      },
+      {
+        "label": "Dự án",
+        "href": "#projects",
+        "targetExists": true
+      },
+      {
+        "label": "Góp ý",
+        "href": "#message",
+        "targetExists": true
+      },
+      {
+        "label": "Liên hệ",
+        "href": "#contact",
+        "targetExists": true
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/img/IMG_20260417_215934.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-hell.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-reaction.jpg",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-warrior.png",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-alien.jpg",
+        "loaded": true,
+        "hasAlt": true
+      }
+    ],
+    "formCount": 1,
+    "formLabels": 3,
+    "phase": "after",
+    "pageErrors": [],
+    "screenshot": "docs/screenshots/mobile-360.png"
+  },
+  {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "documentWidth": 768,
+    "bodyWidth": 768,
+    "horizontalOverflow": false,
+    "projectColumns": 2,
+    "projectCards": 4,
+    "navLinks": [
+      {
+        "label": "Giới thiệu",
+        "href": "#about",
+        "targetExists": true
+      },
+      {
+        "label": "Kỹ năng",
+        "href": "#skills",
+        "targetExists": true
+      },
+      {
+        "label": "Dự án",
+        "href": "#projects",
+        "targetExists": true
+      },
+      {
+        "label": "Góp ý",
+        "href": "#message",
+        "targetExists": true
+      },
+      {
+        "label": "Liên hệ",
+        "href": "#contact",
+        "targetExists": true
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/img/IMG_20260417_215934.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-hell.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-reaction.jpg",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-warrior.png",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-alien.jpg",
+        "loaded": true,
+        "hasAlt": true
+      }
+    ],
+    "formCount": 1,
+    "formLabels": 0,
+    "phase": "before",
+    "pageErrors": [],
+    "screenshot": "docs/screenshots/before-tablet-768.png"
+  },
+  {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "documentWidth": 768,
+    "bodyWidth": 768,
+    "horizontalOverflow": false,
+    "projectColumns": 2,
+    "projectCards": 4,
+    "navLinks": [
+      {
+        "label": "Giới thiệu",
+        "href": "#about",
+        "targetExists": true
+      },
+      {
+        "label": "Kỹ năng",
+        "href": "#skills",
+        "targetExists": true
+      },
+      {
+        "label": "Dự án",
+        "href": "#projects",
+        "targetExists": true
+      },
+      {
+        "label": "Góp ý",
+        "href": "#message",
+        "targetExists": true
+      },
+      {
+        "label": "Liên hệ",
+        "href": "#contact",
+        "targetExists": true
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/img/IMG_20260417_215934.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-hell.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-reaction.jpg",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-warrior.png",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-alien.jpg",
+        "loaded": true,
+        "hasAlt": true
+      }
+    ],
+    "formCount": 1,
+    "formLabels": 3,
+    "phase": "after",
+    "pageErrors": [],
+    "screenshot": "docs/screenshots/tablet-768.png"
+  },
+  {
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "documentWidth": 1280,
+    "bodyWidth": 1280,
+    "horizontalOverflow": false,
+    "projectColumns": 2,
+    "projectCards": 4,
+    "navLinks": [
+      {
+        "label": "Giới thiệu",
+        "href": "#about",
+        "targetExists": true
+      },
+      {
+        "label": "Kỹ năng",
+        "href": "#skills",
+        "targetExists": true
+      },
+      {
+        "label": "Dự án",
+        "href": "#projects",
+        "targetExists": true
+      },
+      {
+        "label": "Góp ý",
+        "href": "#message",
+        "targetExists": true
+      },
+      {
+        "label": "Liên hệ",
+        "href": "#contact",
+        "targetExists": true
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/img/IMG_20260417_215934.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-hell.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-reaction.jpg",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-warrior.png",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-alien.jpg",
+        "loaded": true,
+        "hasAlt": true
+      }
+    ],
+    "formCount": 1,
+    "formLabels": 0,
+    "phase": "before",
+    "pageErrors": [],
+    "screenshot": "docs/screenshots/before-desktop-1280.png"
+  },
+  {
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "documentWidth": 1280,
+    "bodyWidth": 1280,
+    "horizontalOverflow": false,
+    "projectColumns": 3,
+    "projectCards": 4,
+    "navLinks": [
+      {
+        "label": "Giới thiệu",
+        "href": "#about",
+        "targetExists": true
+      },
+      {
+        "label": "Kỹ năng",
+        "href": "#skills",
+        "targetExists": true
+      },
+      {
+        "label": "Dự án",
+        "href": "#projects",
+        "targetExists": true
+      },
+      {
+        "label": "Góp ý",
+        "href": "#message",
+        "targetExists": true
+      },
+      {
+        "label": "Liên hệ",
+        "href": "#contact",
+        "targetExists": true
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/img/IMG_20260417_215934.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-hell.webp",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-reaction.jpg",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-warrior.png",
+        "loaded": true,
+        "hasAlt": true
+      },
+      {
+        "src": "assets/img/meme-alien.jpg",
+        "loaded": true,
+        "hasAlt": true
+      }
+    ],
+    "formCount": 1,
+    "formLabels": 3,
+    "phase": "after",
+    "pageErrors": [],
+    "screenshot": "docs/screenshots/desktop-1280.png"
+  }
+]
