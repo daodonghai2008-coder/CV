@@ -18,6 +18,7 @@
 
 - Các dự án hiển thị trên trang hiện là nội dung giới thiệu/minh họa; chưa tích hợp chức năng ứng dụng thực tế.
 - Liên kết “Xem chi tiết” của các dự án chưa trỏ đến trang hoặc bản demo cụ thể.
+<<<<<<< HEAD
 - Trang chưa có backend, cơ sở dữ liệu hoặc biểu mẫu gửi liên hệ.
 ## 2026-11-03 – Mint Doodle visual refresh
 - Đổi design tokens sang #DDFFF7 / #62C4C3.
@@ -31,3 +32,6 @@
 - Bỏ overflow-x hidden ở body để không che khuất lỗi tràn ngang trong quá trình kiểm thử.
 - Đồng bộ README, wireframe desktop, báo cáo DOCX, ma trận kiểm thử và bảng truy vết.
 - Bổ sung script Playwright để người học chụp và đo ba viewport trên máy cá nhân.
+=======
+- Trang chưa có backend, cơ sở dữ liệu hoặc biểu mẫu gửi liên hệ.
+>>>>>>> bfa61469310e04f8a0c97e1d90b95db514ab9f9b
