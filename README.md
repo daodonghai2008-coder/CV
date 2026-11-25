@@ -7,29 +7,17 @@ Trang portfolio/CV cá nhân giới thiệu Đào Đông Hải, các kỹ năng 
 - Giới thiệu cá nhân và định hướng Frontend Developer.
 - Hiển thị các kỹ năng: HTML5, CSS3, JavaScript, responsive design, Git/GitHub và Figma/wireframe.
 - Trình bày các thẻ dự án mẫu: Landing Page, Todo List, Weather Dashboard và Blog cá nhân.
-<<<<<<< HEAD
 - Điều hướng đến các phần Giới thiệu, Kỹ năng, Dự án, Góp ý và Liên hệ.
 - Bố cục mobile-first: 1 cột dự án ở mobile, 2 cột ở tablet và 3 cột ở desktop từ 1280px.
 - Cung cấp liên kết email, GitHub và LinkedIn.
 
 > Các dự án trong portfolio hiện là nội dung giới thiệu/minh họa, chưa phải sản phẩm có demo/repository công khai.
-=======
-- Điều hướng đến các phần Giới thiệu, Kỹ năng, Dự án và Liên hệ.
-- Bố cục thích ứng với màn hình điện thoại, máy tính bảng và máy tính để bàn.
-- Cung cấp liên kết email, GitHub và LinkedIn.
-
-> Các dự án trong portfolio hiện là nội dung giới thiệu/minh họa. Những liên kết “Xem chi tiết” đang dùng `#`; trang chưa tích hợp chức năng của các ứng dụng mẫu hoặc backend.
->>>>>>> bfa61469310e04f8a0c97e1d90b95db514ab9f9b
 
 ## Công nghệ
 
 - HTML5: cấu trúc nội dung và ngữ nghĩa.
 - CSS3: giao diện, Flexbox, CSS Grid, custom properties và media queries theo hướng mobile-first.
-<<<<<<< HEAD
 - Ảnh JPG/PNG/WebP: ảnh đại diện, doodle background và hình minh họa dự án; SVG dùng cho wireframe.
-=======
-- SVG nhúng và ảnh WebP: hình minh họa dự án và ảnh đại diện.
->>>>>>> bfa61469310e04f8a0c97e1d90b95db514ab9f9b
 - Nginx (tùy chọn): phục vụ trang tĩnh trong Docker.
 
 Dự án không cần Node.js, npm, cơ sở dữ liệu hay bước biên dịch.
@@ -65,7 +53,6 @@ Hoặc tải mã nguồn về và giải nén. Đảm bảo cấu trúc thư m�
 CV/
 ├── index.html
 ├── assets/
-<<<<<<< HEAD
 │   ├── css/styles.css
 │   ├── js/script.js
 │   └── img/                  # Avatar, doodle và 4 ảnh project
@@ -76,12 +63,6 @@ CV/
 ├── tools/capture_responsive.py
 ├── BAOCAO-A2.1.docx
 ├── CHANGELOG.md
-=======
-│   ├── css/
-│   │   └── styles.css
-│   └── img/
-│       └── IMG_20260417_215934.webp
->>>>>>> bfa61469310e04f8a0c97e1d90b95db514ab9f9b
 └── README.md
 ```
 
@@ -92,11 +73,7 @@ Trang không dùng tệp cấu hình môi trường (`.env`) và không yêu c�
 - Sửa tên, mô tả, kỹ năng, dự án và thông tin liên hệ trong [`index.html`](./index.html).
 - Sửa màu sắc, kiểu chữ, khoảng cách và bố cục trong [`assets/css/styles.css`](./assets/css/styles.css). Các biến giao diện nằm trong khối `:root` ở đầu tệp.
 - Thay ảnh đại diện bằng cách cập nhật đường dẫn ảnh trong `index.html`; đặt ảnh mới trong `assets/img/` để dùng đường dẫn tương đối.
-<<<<<<< HEAD
 - Khi có sản phẩm thực tế, bổ sung URL demo hoặc repository vào từng thẻ dự án; hiện nội dung dự án chỉ mang tính giới thiệu/minh họa.
-=======
-- Thay các liên kết `href="#"` ở thẻ dự án bằng URL dự án thật khi có.
->>>>>>> bfa61469310e04f8a0c97e1d90b95db514ab9f9b
 
 ## Chạy thử
 
@@ -162,7 +139,6 @@ Mở <http://localhost:8080> để xem trang. Container chạy ở foreground; n
 
 ```text
 .
-<<<<<<< HEAD
 ├── index.html
 ├── assets/
 │   ├── css/styles.css
@@ -175,14 +151,6 @@ Mở <http://localhost:8080> để xem trang. Container chạy ở foreground; n
 ├── tools/capture_responsive.py
 ├── BAOCAO-A2.1.docx
 ├── CHANGELOG.md
-=======
-├── index.html                 # Nội dung portfolio
-├── assets/
-│   ├── css/
-│   │   └── styles.css         # Toàn bộ giao diện và responsive
-│   └── img/
-│       └── IMG_20260417_215934.webp
->>>>>>> bfa61469310e04f8a0c97e1d90b95db514ab9f9b
 └── README.md
 ```
 
@@ -191,7 +159,6 @@ Mở <http://localhost:8080> để xem trang. Container chạy ở foreground; n
 - **Tên:** Đào Đông Hải
 - **Email:** [daodonghai2008@gmail.com](mailto:daodonghai2008@gmail.com)
 - **GitHub:** [daodonghai2008-coder](https://github.com/daodonghai2008-coder)
-<<<<<<< HEAD
 - **LinkedIn:** [Hải Đào Đông](https://www.linkedin.com/in/h%E1%BA%A3i-%C4%91%C3%A0o-%C4%91%C3%B4ng-53a848441/)
 
 ## Tài liệu A2.1 bổ sung
@@ -225,6 +192,3 @@ Script sẽ chụp cả bản gốc trước sửa (từ `docs/baseline-before/`
 - Bốn ảnh meme được dùng lần lượt cho bốn project cards; ảnh đại diện cũ được giữ nguyên.
 - Animation reveal dùng IntersectionObserver trong `assets/js/script.js`; nội dung vẫn hiển thị nếu JS không chạy.
 - Responsive mobile-first: 1 cột ở 360px, 2 cột từ 768px và 3 cột từ 1280px.
-=======
-- **LinkedIn:** [Hải Đào Đông](https://www.linkedin.com/in/h%E1%BA%A3i-%C4%91%C3%A0o-%C4%91%C3%B4ng-53a848441/)
->>>>>>> bfa61469310e04f8a0c97e1d90b95db514ab9f9b
